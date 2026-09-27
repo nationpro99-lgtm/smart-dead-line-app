@@ -1,0 +1,6 @@
+{
+  "name": "Smart Deadline Manager",
+  "description": "Never miss what matters. A modern, fluid deadline and assignment manager with live countdowns, priority sorting, weekly progress, and calendar view.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
